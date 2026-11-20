@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qkrgudwhd.github.io/landing-seonmisports/sitemap.xml
